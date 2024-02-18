@@ -14,4 +14,4 @@ from sourcetree gitflow feature 123
 another change
 
 from sourcetree gitflow feature 456
-another change
+another change, and another
