@@ -12,3 +12,6 @@ from feat-123
 
 from sourcetree gitflow feature 123
 another change
+
+from sourcetree gitflow feature 456
+another change
